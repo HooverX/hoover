@@ -1,4 +1,4 @@
-# Otus QA JS 2025
+# Otus QA JS 2024-12
 
 ## Feature list
 - Feature 1
